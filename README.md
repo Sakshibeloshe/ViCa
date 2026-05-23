@@ -22,7 +22,8 @@ It works offline, stores everything on your device, and never asks you to make a
 
 ## Screenshots
 
-<!-- Add your screenshots here -->
+<img width="585" height="1266" alt="IMG_0006" src="https://github.com/user-attachments/assets/39951617-4f6a-4b86-add3-5933020faa54" />
+
 
 ---
 
@@ -32,11 +33,11 @@ ViCa lets you build different cards for different situations, so you're always s
 
 | Card type | Best for |
 |---|---|
-| 🌱 **Personal** | Friends, casual meetups — social handles, WhatsApp, location |
-| 💼 **Business** | Professional networking — LinkedIn, email, company, title |
-| ✨ **Social** | Creative spaces — Instagram, Snapchat, Spotify, vibe |
-| 🎟️ **Event** | Conferences, hackathons — GitHub, skills, event badge |
-| 🧩 **Custom** | Build from scratch — any combination of fields |
+|  **Personal** | Friends, casual meetups — social handles, WhatsApp, location |
+|  **Business** | Professional networking — LinkedIn, email, company, title |
+|  **Social** | Creative spaces — Instagram, Snapchat, Spotify, vibe |
+|  **Event** | Conferences, hackathons — GitHub, skills, event badge |
+|  **Custom** | Build from scratch — any combination of fields |
 
 Every card has five colour themes — rose, lime, sky, lavender, and peach — with a distinctive dot-grid texture that makes each one feel premium in the hand.
 
@@ -197,10 +198,5 @@ ViCa/
 
 ---
 
-## License
 
-MIT License — see `LICENSE` for details.
-
----
-
-*Built by Sakshi Beloshe · Swift Student Challenge 2025*
+*Built by Sakshi Beloshe · Swift Student Challenge 2025 winner*
