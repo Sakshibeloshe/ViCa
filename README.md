@@ -240,10 +240,6 @@ The session code uses an unambiguous character set (`ABCDEFGHJKLMNPQRSTUVWXYZ234
 
 ---
 
-## License
 
-MIT License — see `LICENSE` for details.
 
----
-
-*Built by Sakshi Beloshe · Swift Student Challenge 2025*
+*Built by Sakshi Beloshe · Swift Student Challenge 2025 winner*
